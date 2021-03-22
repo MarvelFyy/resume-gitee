@@ -1,12 +1,12 @@
 # Site settings
-name: 董小姐
-location: 大连
-company: IBM
-position: Java开发工程师
-github: https://github.com/
+name: 付彦颖
+location: 重庆
+company: 重庆移通学院
+position: 软件工程
+github: https://github.com/MarvelFyy
 facebook: https://www.facebook.com/
-phone: 1580424XXXX
-email: xxxx@xxx.com
+phone: 15730615013
+email: 751594278@qq.com
 
 baseurl: "/resume.io"
 
